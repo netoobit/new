@@ -1,0 +1,9 @@
+Building NEWCOIN
+
+See doc/readme-qt.rst for instructions on building NEWCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NEWCOIN.
+
+See doc/build-*.txt for instructions on building NEWCOINd,
+the intended-for-services, no-graphical-interface, reference
+implementation of NEWCOIN.
